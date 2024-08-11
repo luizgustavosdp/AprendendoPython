@@ -1,0 +1,1 @@
+Estamos registrados aqui meus primeiros, e importantissimos passos, no aprendizado de conhecimento de Python. Deixei salvou conceitos básicos, como tipos e declaração de variáveis, o que é e como iniciar uma função, operadores lógicos e laços de repetição.
